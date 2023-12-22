@@ -11,7 +11,7 @@ tags:
   - O'Clock
 ---
 
-WebStellar est le fruit de ma passion pour l'astronomie, incarné dans un site web que j'ai conçu en tant que Product Owner. L'objectif principal était de rendre l'astronomie accessible à tous, qu'ils soient novices ou passionnés, tout en offrant une expérience visuelle inspirée de l'univers.
+L’idée de WebStellar découle de ma passion pour l’astronomie. En tant que Product Owner, mon objectif était de créer un site web à la portée de tous, qu’ils soient novices ou passionnés, tout en offrant un design inspiré de l’univers.
 
 Le site comprend trois fonctionnalités principales. Tout d'abord, la section Blog présente des articles d'actualités astronomiques triables par date, ainsi que des articles destinés aux débutants pour expliquer les bases de l'astronomie. Les utilisateurs peuvent s'authentifier pour commenter les articles, accéder à leur profil, et personnaliser leur avatar et leurs coordonnées. Ensuite, la section Exploration permet aux visiteurs de plonger dans notre système solaire pour en apprendre davantage sur chaque planète, offrant ainsi une expérience utilisateur immersive. Enfin, le Calendrier informe les utilisateurs des événements célestes à venir et propose un historique des évènements passés, avec des options de tri par date.
 
